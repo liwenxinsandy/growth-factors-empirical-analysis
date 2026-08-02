@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Data files (downloaded raw data)
+data/*.csv
+data/*.dta
+data/*.xlsx
+data/*.xls
+data/*.zip
+
+# Output files (generated figures, tables, etc.)
+output/*.pdf
+output/*.png
+output/*.jpg
+output/*.svg
+output/*.csv
+output/*.xlsx
+output/*.tex
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
