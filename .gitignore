@@ -21,6 +21,9 @@ output/*.csv
 output/*.xlsx
 output/*.tex
 
+# Auto-git log (generated locally)
+auto_git.log
+
 # OS
 .DS_Store
 Thumbs.db
